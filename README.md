@@ -245,7 +245,7 @@ We love contributions! Here's how to get started:
 
 ## 📄 License
 
-Released under the [MIT License](LICENSE). Built with ❤️ by the ChatFlow team.
+Released under the [MIT License](LICENSE). Built with ❤️ by the Abhinav Gupta.
 
 ---
 
